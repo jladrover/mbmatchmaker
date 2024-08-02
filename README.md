@@ -2,7 +2,7 @@
 
 Jean Luis Adrover Jackson Reinhart Jakob Lamber Yixiao Zhang
 
-Read our final paper on this project [here]([url](https://github.com/jladrover/mbmatchmaker/blob/94c0a41ec614b1a135933e0dbd8c08a3da6e220a/nyu_nlp_finalpaper%20(1).pdf))
+Read our final paper on this project [here](https://github.com/jladrover/mbmatchmaker/blob/94c0a41ec614b1a135933e0dbd8c08a3da6e220a/nyu_nlp_finalpaper%20(1).pdf)
 
 ## Overview
 
