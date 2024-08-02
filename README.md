@@ -1,5 +1,9 @@
 # Evaluating the Effectiveness of TF-IDF and Word Embedding Models for Predicting Plot Similarity
 
+Jean Luis Adrover Jackson Reinhart Jakob Lamber Yixiao Zhang
+
+Read our final paper on this project [here]([url](https://github.com/jladrover/mbmatchmaker/blob/94c0a41ec614b1a135933e0dbd8c08a3da6e220a/nyu_nlp_finalpaper%20(1).pdf))
+
 ## Overview
 
 This repository contains the code and datasets used for the research paper **"Evaluating the Effectiveness of TF-IDF and Word Embedding Models with Cosine Similarity to Predict Plot Similarity Between Books and Films"**.
